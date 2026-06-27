@@ -26,7 +26,7 @@ from huggingface_hub import snapshot_download
 # ================================================================
 
 # Ganti dengan repo Hugging Face kamu, format: "username/nama-repo"
-HF_REPO_ID = "username-kamu/axis-indobart"
+HF_REPO_ID = "fadhhhhhhhltn/axis-indobart"
 
 MODEL_DIR = "./model_axis_indobart"
 MAX_SRC_LENGTH = 64
