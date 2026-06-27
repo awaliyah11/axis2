@@ -1,0 +1,5 @@
+venv/
+model_axis_indobart/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
