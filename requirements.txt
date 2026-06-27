@@ -1,0 +1,18 @@
+# # Tambahkan baris ini ke requirements.txt kamu (jika belum ada):
+# huggingface_hub
+
+# # Baris ini boleh dihapus karena tidak dipakai lagi:
+# gdown
+# Versi ini sudah terbukti cocok untuk Python 3.11 dan kompatibel
+# dengan IndoNLGTokenizer + MBartForConditionalGeneration
+
+streamlit==1.28.1
+torch==2.0.1
+transformers==4.35.2
+tokenizers==0.15.2
+sentencepiece==0.1.99
+safetensors==0.8.0
+indobenchmark-toolkit==0.1.7
+huggingface_hub==0.23.0
+accelerate==0.25.0
+numpy==1.26.4
