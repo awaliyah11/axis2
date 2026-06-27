@@ -1,5 +1,0 @@
-# Tambahkan baris ini ke requirements.txt kamu (jika belum ada):
-huggingface_hub
-
-# Baris ini boleh dihapus karena tidak dipakai lagi:
-gdown
