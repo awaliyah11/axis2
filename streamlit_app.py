@@ -370,6 +370,7 @@ st.markdown("""
     .sidebar-info p {
         margin-bottom: 0.5rem;
         font-size: 0.95rem;
+        color: #1a1a2e;
     }
     .lang-label {
         font-weight: 600;
@@ -462,7 +463,7 @@ with st.sidebar:
     <div class="sidebar-info">
         <p>AXIS adalah penerjemah cerdas untuk bahasa daerah
         Sulawesi Tenggara yang dibangun menggunakan model IndoBART.</p>
-        <p style="margin-top: 0.5rem; font-size: 0.85rem; color: #000000;">
+        <p style="margin-top: 0.5rem; font-size: 0.85rem; color: #495057;">
             Model fine-tuned dengan data parallel corpus
         </p>
     </div>
