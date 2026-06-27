@@ -462,7 +462,7 @@ with st.sidebar:
     <div class="sidebar-info">
         <p>AXIS adalah penerjemah cerdas untuk bahasa daerah
         Sulawesi Tenggara yang dibangun menggunakan model IndoBART.</p>
-        <p style="margin-top: 0.5rem; font-size: 0.85rem; color: #6c757d;">
+        <p style="margin-top: 0.5rem; font-size: 0.85rem; color: #000000;">
             Model fine-tuned dengan data parallel corpus
         </p>
     </div>
