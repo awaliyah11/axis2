@@ -278,14 +278,14 @@ st.markdown("""
     .main-header h1 {
         font-size: 2.8rem;
         font-weight: 700;
-        color: #1a1a2e;
+        color: #ffffff;
         letter-spacing: 2px;
     }
     .main-header h1 .highlight {
         color: #e94560;
     }
     .main-header p {
-        color: #6c757d;
+        color: #ffffff;
         font-size: 1.1rem;
         margin-top: 0.25rem;
     }
@@ -303,6 +303,7 @@ st.markdown("""
         font-size: 1.1rem;
         line-height: 1.6;
         margin-top: 0.5rem;
+        color: #1a1a2e;
     }
     .result-box.has-result {
         background: #f0f7ff;
@@ -370,10 +371,11 @@ st.markdown("""
     .sidebar-info p {
         margin-bottom: 0.5rem;
         font-size: 0.95rem;
+        color: #1a1a2e;
     }
     .lang-label {
         font-weight: 600;
-        color: #1a1a2e;
+        color: #ffffff;
         font-size: 0.9rem;
         margin-bottom: 0.25rem;
     }
@@ -396,7 +398,7 @@ st.markdown("""
     }
     .sidebar-langs li {
         padding: 0.2rem 0;
-        color: #495057;
+        color: #ffffff;
         font-size: 0.9rem;
     }
     .sidebar-langs li::before {
@@ -460,9 +462,9 @@ with st.sidebar:
     st.markdown("### TENTANG AXIS")
     st.markdown("""
     <div class="sidebar-info">
-        <p>AXIS adalah penerjemah cerdas untuk bahasa daerah
+        <p>AXIS adalah penerjemah untuk bahasa daerah
         Sulawesi Tenggara yang dibangun menggunakan model IndoBART.</p>
-        <p style="margin-top: 0.5rem; font-size: 0.85rem; color: #6c757d;">
+        <p style="margin-top: 0.5rem; font-size: 0.85rem; color: #495057;">
             Model fine-tuned dengan data parallel corpus
         </p>
     </div>
